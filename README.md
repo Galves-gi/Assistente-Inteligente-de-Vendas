@@ -8,6 +8,8 @@ Projeto desenvolvido para simplificar a rotina comercial de uma pequena loja, pe
 > **Status:** Protótipo funcional em desenvolvimento  
 > **Autoria:** Galves-gi
 
+![Texto Alternativo](https://github.com/Galves-gi/Assistente-Inteligente-de-Vendas/blob/main/imagem%20(4).png)
+
 ---
 
 ## 📌 Sumário
@@ -98,6 +100,8 @@ O processamento segue estas etapas:
 6. **Resposta:** o bot retorna uma confirmação, os resultados encontrados ou uma mensagem informando os dados ausentes ou os erros identificados.
 
 A inteligência artificial auxilia na interpretação da linguagem natural. A execução das operações permanece sob controle do código Python.
+
+> ![Texto Alternativo](https://github.com/Galves-gi/Assistente-Inteligente-de-Vendas/blob/main/Fluxo%20de%20mensagens%20com%20IA.jpg)
 
 ---
 
